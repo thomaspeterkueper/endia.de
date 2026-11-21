@@ -14,6 +14,9 @@ im Repository `kueper-ecosystem`.
 
 Bitte auf diesen Link verweisen statt den Inhalt zu kopieren.
 
+Fakt/Fiktion: Umsetzungscheckliste für Realwelt-Inhalte (Entwurf) in
+[`docs/fakt-fiktion-checkliste.md`](docs/fakt-fiktion-checkliste.md).
+
 ## Cross-Repository-Anforderungen
 
 Änderungswünsche an andere Projekte werden nicht direkt committet, sondern als
