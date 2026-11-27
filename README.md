@@ -17,6 +17,11 @@ Bitte auf diesen Link verweisen statt den Inhalt zu kopieren.
 Fakt/Fiktion: Umsetzungscheckliste für Realwelt-Inhalte (Entwurf) in
 [`docs/fakt-fiktion-checkliste.md`](docs/fakt-fiktion-checkliste.md).
 
+Rechtliche Baseline vor dem Launch (Entwurf, nicht verbindlich) in
+[`docs/rechtliche-baseline.md`](docs/rechtliche-baseline.md); Herkunft der
+Rechtstexte und offene Punkte zu Minderjährigen in
+[`docs/pruefnotiz-rechtstexte-herkunft.md`](docs/pruefnotiz-rechtstexte-herkunft.md).
+
 ## Cross-Repository-Anforderungen
 
 Änderungswünsche an andere Projekte werden nicht direkt committet, sondern als
